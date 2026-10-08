@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Fahdah Shamma 👋
+#  I'm Fahdah Shamma 👋
 ### Software Engineering Student | Front-End Developer
 
 🎓 4th-year student at Al-Wataniya Private University
@@ -25,8 +25,6 @@
 ## 👩‍💻 About Me
 
 - 🎓 Software Engineering student at Al-Wataniya Private University (4th year)
-- 🔭 Currently working on: **my graduation project / ...**
-- 🌱 Currently learning: **...**
 - 💬 Ask me about: **HTML, CSS, JavaScript, Vue**
 - 📫 Reach me at: **fahdahshamma@gmail.com** or on [LinkedIn](https://linkedin.com/in/fahdah-shammaa)
 
