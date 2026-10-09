@@ -19,8 +19,6 @@
 
 I'm an Informatics and Software Engineering student specializing in user interface development with **Vue.js** and **JavaScript**. I build responsive, interactive web applications using **Vue 3**, **Composition API**, HTML, CSS, and modern frontend practices. I'm passionate about creating clean user experiences, solving technical problems, and continuously improving my skills through practical projects and teamwork.
 
-- 🔭 Currently working on: **...**
-- 🌱 Currently learning: **...**
 - 💬 Ask me about: **Vue 3, Composition API, JavaScript, responsive UI**
 - 📫 Reach me at: **fahdahshamma@gmail.com**, on [LinkedIn](https://linkedin.com/in/fahdah-shammaa), or [Instagram](https://instagram.com/fahdah_shamma)
 
