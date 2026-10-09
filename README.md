@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahdah-shammaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fahdahshamma@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fahdah_shamma)
-![Profile Views](https://komarev.com/ghpvc/?username=fahdahshamma-ux&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
